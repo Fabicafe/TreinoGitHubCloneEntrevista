@@ -1,6 +1,6 @@
 <html>
 <body>
-<img src="logo.png" alt="some text" width=600 height=250> 
+<img src="Logoinicial.png" alt="some text" width=600 height=450> 
 <h1>Projeto em desenvolvimento<h1>
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
